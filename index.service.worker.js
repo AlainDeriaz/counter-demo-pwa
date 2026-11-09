@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794221248|304377163';
+const CACHE_VERSION = '1794222073|99674848';
 /** @type {string} */
 const CACHE_PREFIX = 'CounterDemo-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
